@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as a,p as c,a as s,b as o}from"./index.bcac13f4.js";const r={},d=e=>(c("data-v-2bc6e68e"),e=e(),s(),e),p=d(()=>o("div",{class:"title"},"\uB2E4\uB978 \uC0D8\uD50C \uD398\uC774\uC9C0",-1)),n=[p];function l(e,i){return _(),a("div",null,n)}var v=t(r,[["render",l],["__scopeId","data-v-2bc6e68e"]]);export{v as default};
